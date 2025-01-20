@@ -116,3 +116,6 @@ docker-compose down
 ```
 
 This will stop the services and remove the containers but keep your configurations intact.
+
+<img width="907" alt="image" src="https://github.com/user-attachments/assets/6c598c1d-dd8e-4e5d-b9b2-b0540a91911a" />
+
